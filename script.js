@@ -148,4 +148,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // INÍCIO DO PROJETO
     carregarVeiculos();
+
 });
