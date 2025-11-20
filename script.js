@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR4UYJgaHtWLW0cjjvyaexPmL7atrFWNCaj6BHwn6k8ZQP90a2ViAWonJSgP0nKCIM5L4BrCZ7KWiLU/pub?gid=1842449585&single=true&output=csv';
 
     // 2. URL DE LEADS (URL GERADO PELO GOOGLE APPS SCRIPT)
-    const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbzqZfgcdXsY-N73SOIrsn67wkvWayYWeF-PdzvEiLb6KNciodjkRgU9Rfr1qxQ6zKcVKQ/exec'; 
+    const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbybYpDvAqRVkAtsBzZnhYD7b3Q4Gu0kAa-SDsCI8MmhY-64SKcZwszFVZUqrEhr6X0V/exec'; 
 
 
     // Funções Auxiliares --------------------------------------------------------------------------------
@@ -150,4 +150,5 @@ document.addEventListener('DOMContentLoaded', () => {
     carregarVeiculos();
 
 });
+
 
