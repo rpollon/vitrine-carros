@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vitrine Carros</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <div id="carrossel-container">
+<div id="carrossel-container">
         </div>
 
     <div id="modal-lead" class="modal-oculto">
@@ -32,4 +22,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
